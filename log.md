@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 N/A
+
+## DAY 2 - 27/02/2023
+
+**Today's Progress**: (1) Solved Day 2's Questions 4 through 6 coding exercises from darkprinx's 'Break the Ice With Python', (2) researched how to plan some small Python projects e.g. expenses tracker, (3) was introduced to cluster analysis, and the differences between clustering and classification 
+
+**Thoughts** (1) The coding exercises were good practice, I was able to use the class object constructor and was pleased that my solution to Question 6 came out so well compared to other solutions as I had properly applied functional programming, (2) listening ForestKnight's and Sterkowitz's YT videos gave me the understanding and confidence to proceede with my own Python projects, so I will begin on a simple expenses tracker tomorrow ... thinking about how it could be developed, use of SQL and measure behavouiral factors like adverts seen that day (3) cluster analysis was fairly intuitive, as was the maths behind, looking forward to K-means clustering tomorrow  
+
+**Link(s) to work**
+N/A
