@@ -17,3 +17,12 @@ N/A
 
 **Link(s) to work**
 N/A
+
+## DAY 3 - 28/02/2023
+
+**Today's Progress**: (1) Solved Day 2's Questions 7 through 9 coding exercises from darkprinx's 'Break the Ice With Python', (2) introduction to and some exercises for k-means clustering, (3) pseudo-code for expenses tracker
+
+**Thoughts** (1) developed some research skills here, discovered how to input multiple lines including inputting empty lines which led actually solved as asked unlike the provided solutions -- raised issue on repository, (2) k-means fairly intuitive so far, looking forward to practical application in market segmentation, (3) excited to write my first real project, start small and develop it from there to have a nice simple project for my portfolio  
+
+**Link(s) to work**
+N/A
