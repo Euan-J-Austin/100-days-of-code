@@ -35,3 +35,11 @@ N/A
 **Link(s) to work**
 N/A
 
+## DAY 5- 02/03/2023
+
+**Today's Progress**: (1) Solved Day 3's Questions 13 coding exercise from darkprinx's 'Break the Ice With Python', (2) K-Means market segmentation (3) updated expense tracker methods and some conditional arguments
+
+**Thoughts** I'm unhappy with lack of progress today, I would have like to solve 3 problems and made good progress on both data science/ml and my expenses tracker 
+**Link(s) to work**
+N/A
+
