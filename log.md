@@ -22,7 +22,16 @@ N/A
 
 **Today's Progress**: (1) Solved Day 2's Questions 7 through 9 coding exercises from darkprinx's 'Break the Ice With Python', (2) introduction to and some exercises for k-means clustering, (3) pseudo-code for expenses tracker
 
-**Thoughts** (1) developed some research skills here, discovered how to input multiple lines including inputting empty lines which led actually solved as asked unlike the provided solutions -- raised issue on repository, (2) k-means fairly intuitive so far, looking forward to practical application in market segmentation, (3) excited to write my first real project, start small and develop it from there to have a nice simple project for my portfolio  
+**Thoughts** (1) developed some research skills here, discovered how to input multiple lines including inputting empty lines which I actually solved as asked unlike the provided solutions -- raised issue on repository, (2) k-means fairly intuitive so far, looking forward to practical application in market segmentation, (3) excited to write my first real project, start small and develop it from there to have a nice simple project for my portfolio  
 
 **Link(s) to work**
 N/A
+
+## DAY 4- 01/03/2023
+
+**Today's Progress**: (1) Solved Day 3's Questions 10 through 12 coding exercises from darkprinx's 'Break the Ice With Python', (2) some more clustering theory, too fatigued to get serious work done in Jupyter Notebooks(3) first commit to expenses tracker
+
+**Thoughts** (1) fairly easy, dealing with strings and comprehensions, (2) will move this forward as first item of the day for 02/03 as it's going too slow for my liking, (3) very happy with the tracker so far, great confidence boost to see it all working in it's most basic form 
+**Link(s) to work**
+N/A
+
