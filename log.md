@@ -43,3 +43,11 @@ N/A
 **Link(s) to work**
 N/A
 
+## DAY 6- 03/03/2023
+
+**Today's Progress**: (1) Solved Day 3's Questions 14 and 15 coding exercise from darkprinx's 'Break the Ice With Python', (2) first part of species segmentation (3) updated expense tracker to print easily understandable table updated relationships between arrays
+
+**Thoughts** I feel I could have done better, but made good use of the time that was given to me, I should have completed that expenses tracker project by tomorrow and cleared the ground for the Deep Learning sections of the DS course 
+**Link(s) to work**
+N/A
+
