@@ -51,3 +51,11 @@ N/A
 **Link(s) to work**
 N/A
 
+## DAY 7- 07/03/2023
+
+**Today's Progress**: (1) Solved Day 4's Questions 15 and 16 coding exercise from darkprinx's 'Break the Ice With Python', (2) linear algebra for machine learning (scalars, vectors, matrices, tensors and operations for them), it's implementation in programming (3) expense tracker fully interactive, tomorrow need to enable reading of array from txt file and unique ID checker, also all round values with two digits except where not printed but used for operations
+
+**Thoughts**: Okay, expenses tracker certainly done by tomorrow. Any further additions beyond what is proposed above would be superfluous for a simple project. The exercises were easy today. Linear algebra was good, not entirely intuitive at first but I read around the subject and came to understand it. Looking forward to neural nets tomorrow.
+**Link(s) to work**
+N/A
+
