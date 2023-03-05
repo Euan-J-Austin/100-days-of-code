@@ -59,3 +59,12 @@ N/A
 **Link(s) to work**
 N/A
 
+## DAY 8- 08/03/2023
+
+**Today's Progress**: (1) Solved Day 5's Questions 17 and 18 coding exercise from darkprinx's 'Break the Ice With Python', (2) introduction to neural networks (3) expense tracker fully interactive, only addition was allowing for rounded float values
+
+**Thoughts**: Fatigued (?) today ... the challenges were frustrating as use of RegEx, introduction to neural networks clarified the foundations fo machine learning and its aims. Did not make as much progress as I had hoped for with the Expenses Tracker, discovered would need RegEx to read array from saved files which violated the rules of the project (no imported modules). I'm going to disregard this for the next project as I feel I could demonstrate my basic competency with Python AS WELL AS deploying it for real practical use.
+
+**Link(s) to work**
+N/A
+
