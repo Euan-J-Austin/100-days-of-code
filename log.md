@@ -51,7 +51,7 @@ N/A
 **Link(s) to work**
 N/A
 
-## DAY 7- 07/03/2023
+## DAY 7- 04/03/2023
 
 **Today's Progress**: (1) Solved Day 4's Questions 15 and 16 coding exercise from darkprinx's 'Break the Ice With Python', (2) linear algebra for machine learning (scalars, vectors, matrices, tensors and operations for them), it's implementation in programming (3) expense tracker fully interactive, tomorrow need to enable reading of array from txt file and unique ID checker, also all round values with two digits except where not printed but used for operations
 
@@ -59,11 +59,20 @@ N/A
 **Link(s) to work**
 N/A
 
-## DAY 8- 08/03/2023
+## DAY 8- 05/03/2023
 
 **Today's Progress**: (1) Solved Day 5's Questions 17 and 18 coding exercise from darkprinx's 'Break the Ice With Python', (2) introduction to neural networks (3) expense tracker fully interactive, only addition was allowing for rounded float values
 
 **Thoughts**: Fatigued (?) today ... the challenges were frustrating as use of RegEx, introduction to neural networks clarified the foundations fo machine learning and its aims. Did not make as much progress as I had hoped for with the Expenses Tracker, discovered would need RegEx to read array from saved files which violated the rules of the project (no imported modules). I'm going to disregard this for the next project as I feel I could demonstrate my basic competency with Python AS WELL AS deploying it for real practical use.
+
+**Link(s) to work**
+N/A
+
+## DAY 8- 06/03/2023
+
+**Today's Progress**: (1) Solved Day 6's Questions 19 and 20 coding exercise from darkprinx's 'Break the Ice With Python', (2) introduction to neural networks finished (3) pseudo-code and inputs for calculator project
+
+**Thoughts**: Challenges were p easy, I don't recall much of their content ... finished introduction to neural networks, the gradient descent (optimization algorithm) was challenging as lots of maths but once I understood derivatives through Khan Academy they became understandable, I will have to re-read and condense my notes + practice for a proper understanding . . . calculator project should be quite challenging, I foresee order of operations being an issue .... perhaps enter all at once, then ask user to check input and edit from their as opposed to CE ... does python automatically account for order of operations? Regarding modules, I have decided to hold off as calculator project shouldn't require any imported modules
 
 **Link(s) to work**
 N/A
