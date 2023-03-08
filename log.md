@@ -77,3 +77,19 @@ N/A
 **Link(s) to work**
 N/A
 
+## DAY 9- 07/03/2023
+
+**Today's Progress**: (1) Solved Day 7's codings exercise from darkprinx's 'Break the Ice With Python', (2) went over gradient descent StatsQuest video (3) small addition to project
+
+**Thoughts**: . . .
+**Link(s) to work**
+N/A
+
+## DAY 10 - 08/03/2023
+
+**Today's Progress**: (1) Focused on my calculator project today, made classful and solved some problems related to tail recursion, pruning classes of excess information, classes calling on each other etc.
+
+**Thoughts**: I'm quite happy with my progress today, once I focused to apply logic and sound reasoning to the problems at hand (coupled with some search skills) I achieved the outputs I desired ... I also learnt of Observer pattern https://en.wikipedia.org/wiki/Observer_pattern design which I may implement for this project or in a duplicate of this project
+**Link(s) to work**
+N/A
+
