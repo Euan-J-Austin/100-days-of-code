@@ -93,3 +93,12 @@ N/A
 **Link(s) to work**
 N/A
 
+## DAY 12 -- 09/03/2023
+
+**Today's Progress**: (1) Progress on calculator project, specifically memory class, (2) I ran my first neural network and installed TensorFlow
+
+**Thoughts**: Good progress on calculator, and feel I understand the method behind the neural network 
+**Link(s) to work**
+N/A
+
+
