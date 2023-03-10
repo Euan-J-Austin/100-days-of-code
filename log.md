@@ -102,3 +102,12 @@ N/A
 N/A
 
 
+## DAY 13 -- 10/03/2023
+
+**Today's Progress**: (1) Progress on calculator project, execution method (2) further introdution to TF
+
+**Thoughts**: Nothing to report.
+**Link(s) to work**
+N/A
+
+
